@@ -22,9 +22,9 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
   {
     "roster": 1,  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-    "managerID": "12345678",
+    "managerID": "415665742919237632",
     "name": "Larry Batterman",
-    "tookOver": NULL, // (optional) used if a manager took over a team, delete this line or change to null otherwise
+    "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
     "location": "Midwest", // (optional)
     "bio": "Test bio",
     "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
